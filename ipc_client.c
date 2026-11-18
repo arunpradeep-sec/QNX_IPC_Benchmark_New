@@ -15,9 +15,11 @@
  * then sleeps for idle_us, at priority (priority - 5), (priority) or
  * (priority + 5). The load is duty-cycled, not continuous, because a
  * continuous higher-priority load would starve the benchmark for ever.
- * The default burst (5 ms) is longer than the round-robin timeslice
- * (4 clock ticks, about 4 ms), which is what lets SCHED_FIFO and
- * SCHED_RR behave differently in the equal-priority case.
+ * The built-in default is a 5-ms burst and 5-ms sleep; the published
+ * campaign (run_all.sh) uses 40 ms / 40 ms. Either way the burst is longer
+ * than the round-robin timeslice (4 clock periods, 3.75 ms on the test
+ * guest), which is what lets SCHED_FIFO and SCHED_RR behave differently
+ * in the equal-priority case.
  *
  * Before measuring, the client busy-loops for SPIN_WARMUP_MS so that the
  * host CPU has left any low-power or low-frequency state in every mode,
