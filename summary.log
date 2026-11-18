@@ -1,0 +1,203 @@
+server ready: policy=fifo priority=50 cpu=0
+rtt_fifo_p50_none_32_run1.csv: n=10000 min=1.329 median=1.354 p99=1.417 max=51.981 us over_1ms=0 | cps=2496011000 ts_overhead=6.4 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run2.csv: n=10000 min=1.335 median=1.357 p99=1.675 max=13.749 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run3.csv: n=10000 min=1.338 median=1.354 p99=1.879 max=32.895 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run4.csv: n=10000 min=1.366 median=1.385 p99=1.986 max=47.171 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run5.csv: n=10000 min=1.320 median=1.388 p99=1.946 max=176.997 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run6.csv: n=10000 min=1.330 median=1.356 p99=1.466 max=116.482 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run7.csv: n=10000 min=1.556 median=1.579 p99=2.192 max=832.103 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run8.csv: n=10000 min=1.342 median=1.387 p99=1.908 max=10.945 us over_1ms=0 | cps=2496011000 ts_overhead=8.4 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run9.csv: n=10000 min=1.327 median=1.388 p99=1.897 max=54.093 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_32_run10.csv: n=10000 min=1.328 median=1.358 p99=1.468 max=60.231 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run1.csv: n=10000 min=1.379 median=1.425 p99=2.100 max=40.258 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run2.csv: n=10000 min=1.330 median=1.392 p99=1.915 max=68.300 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run3.csv: n=10000 min=1.330 median=1.387 p99=1.915 max=114.785 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run4.csv: n=10000 min=1.366 median=1.394 p99=1.939 max=272.318 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run5.csv: n=10000 min=1.335 median=1.360 p99=1.856 max=54.417 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run6.csv: n=10000 min=1.401 median=1.435 p99=1.973 max=112.537 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run7.csv: n=10000 min=1.342 median=1.392 p99=1.833 max=72.090 us over_1ms=0 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run8.csv: n=10000 min=1.334 median=1.392 p99=1.876 max=60.951 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run9.csv: n=10000 min=1.336 median=1.514 p99=2.031 max=50.335 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_64_run10.csv: n=10000 min=1.339 median=1.359 p99=1.889 max=76.123 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run1.csv: n=10000 min=1.361 median=1.396 p99=2.621 max=158.992 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run2.csv: n=10000 min=1.345 median=1.395 p99=1.887 max=31.853 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run3.csv: n=10000 min=1.340 median=1.361 p99=1.862 max=3003.003 us over_1ms=1 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run4.csv: n=10000 min=1.341 median=1.361 p99=1.415 max=8.811 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run5.csv: n=10000 min=1.342 median=1.363 p99=2.012 max=74.954 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run6.csv: n=10000 min=1.345 median=1.361 p99=1.894 max=34.935 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run7.csv: n=10000 min=1.346 median=1.363 p99=1.957 max=56.458 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run8.csv: n=10000 min=1.378 median=1.394 p99=1.940 max=160.046 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run9.csv: n=10000 min=1.367 median=1.395 p99=1.948 max=32.890 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_128_run10.csv: n=10000 min=1.347 median=1.392 p99=1.956 max=36.655 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run1.csv: n=10000 min=1.400 median=1.435 p99=2.025 max=274.582 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run2.csv: n=10000 min=1.422 median=1.447 p99=2.044 max=77.119 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run3.csv: n=10000 min=1.381 median=1.444 p99=2.075 max=78.807 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run4.csv: n=10000 min=1.422 median=1.447 p99=2.012 max=37.869 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run5.csv: n=10000 min=1.427 median=1.444 p99=1.978 max=20.210 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run6.csv: n=10000 min=1.408 median=1.445 p99=2.035 max=53.725 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run7.csv: n=10000 min=1.421 median=1.446 p99=2.024 max=77.140 us over_1ms=0 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run8.csv: n=10000 min=1.422 median=1.448 p99=2.064 max=40.720 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run9.csv: n=10000 min=1.414 median=1.449 p99=2.022 max=16.010 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_512_run10.csv: n=10000 min=1.431 median=1.447 p99=2.033 max=195.062 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run1.csv: n=10000 min=1.400 median=1.447 p99=1.986 max=38.234 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run2.csv: n=10000 min=1.389 median=1.445 p99=2.032 max=52.471 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run3.csv: n=10000 min=1.402 median=1.448 p99=1.985 max=9.693 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run4.csv: n=10000 min=1.393 median=1.424 p99=1.965 max=29.100 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run5.csv: n=10000 min=1.428 median=1.449 p99=1.996 max=39.818 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run6.csv: n=10000 min=1.435 median=1.450 p99=1.506 max=19.486 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run7.csv: n=10000 min=1.423 median=1.450 p99=2.049 max=53.874 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run8.csv: n=10000 min=1.400 median=1.448 p99=1.689 max=52.977 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run9.csv: n=10000 min=1.402 median=1.448 p99=1.586 max=31.820 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_1024_run10.csv: n=10000 min=1.427 median=1.453 p99=2.060 max=136.336 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run1.csv: n=10000 min=2.077 median=2.143 p99=2.921 max=47.146 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run2.csv: n=10000 min=2.060 median=2.129 p99=2.836 max=9.724 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run3.csv: n=10000 min=2.076 median=2.125 p99=2.834 max=14.430 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run4.csv: n=10000 min=2.077 median=2.127 p99=2.779 max=9.969 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run5.csv: n=10000 min=2.086 median=2.167 p99=2.826 max=132.609 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run6.csv: n=10000 min=2.083 median=2.127 p99=3.020 max=47.827 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run7.csv: n=10000 min=2.181 median=2.225 p99=2.895 max=86.952 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run8.csv: n=10000 min=2.137 median=2.176 p99=3.603 max=133.219 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run9.csv: n=10000 min=2.086 median=2.120 p99=2.783 max=14.512 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_4096_run10.csv: n=10000 min=2.085 median=2.137 p99=2.845 max=32.322 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run1.csv: n=10000 min=2.165 median=2.225 p99=3.242 max=106.541 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run2.csv: n=10000 min=2.212 median=2.267 p99=3.281 max=198.384 us over_1ms=0 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run3.csv: n=10000 min=2.178 median=2.260 p99=3.109 max=42.305 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run4.csv: n=10000 min=2.179 median=2.265 p99=3.041 max=827.144 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run5.csv: n=10000 min=2.167 median=2.254 p99=2.920 max=126.699 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run6.csv: n=10000 min=2.168 median=2.234 p99=2.928 max=41.283 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run7.csv: n=10000 min=2.175 median=2.222 p99=2.893 max=68.504 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run8.csv: n=10000 min=2.146 median=2.245 p99=3.080 max=68.203 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run9.csv: n=10000 min=2.177 median=2.259 p99=3.103 max=97.260 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_fifo_p50_none_8192_run10.csv: n=10000 min=2.217 median=2.265 p99=2.898 max=213.193 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_fifo_p50_below_32_run1.csv: n=100000 min=1.332 median=1.385 p99=1.906 max=154.890 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run2.csv: n=100000 min=1.331 median=1.380 p99=1.871 max=122.189 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run3.csv: n=100000 min=1.335 median=1.387 p99=1.838 max=3016.724 us over_1ms=1 | cps=2496011000 ts_overhead=8.4 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run4.csv: n=100000 min=1.340 median=1.410 p99=1.984 max=385.971 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run5.csv: n=100000 min=1.338 median=1.377 p99=1.906 max=149.262 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run6.csv: n=100000 min=1.338 median=1.383 p99=1.694 max=175.419 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run7.csv: n=100000 min=1.339 median=1.385 p99=1.879 max=346.935 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run8.csv: n=100000 min=1.338 median=1.383 p99=1.839 max=139.950 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run9.csv: n=100000 min=1.339 median=1.379 p99=1.885 max=111.035 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_below_32_run10.csv: n=100000 min=1.339 median=1.383 p99=1.845 max=83.454 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_fifo_p50_equal_32_run1.csv: n=100000 min=1.332 median=1.385 p99=1.843 max=40086.244 us over_1ms=4 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run2.csv: n=100000 min=1.339 median=1.363 p99=1.762 max=40095.811 us over_1ms=4 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run3.csv: n=100000 min=1.329 median=1.383 p99=1.832 max=40109.544 us over_1ms=4 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run4.csv: n=100000 min=1.339 median=1.386 p99=1.904 max=40098.707 us over_1ms=4 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run5.csv: n=100000 min=1.330 median=1.396 p99=2.430 max=40296.691 us over_1ms=4 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run6.csv: n=100000 min=1.369 median=1.431 p99=2.169 max=40135.507 us over_1ms=5 | cps=2496011000 ts_overhead=10.8 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run7.csv: n=100000 min=1.286 median=1.362 p99=4.499 max=40165.768 us over_1ms=4 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run8.csv: n=100000 min=1.337 median=1.379 p99=1.850 max=40042.695 us over_1ms=4 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run9.csv: n=100000 min=1.331 median=1.415 p99=2.018 max=43425.232 us over_1ms=5 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_equal_32_run10.csv: n=100000 min=1.339 median=1.388 p99=1.881 max=40119.929 us over_1ms=4 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_fifo_p50_above_32_run1.csv: n=100000 min=1.367 median=1.390 p99=1.948 max=40098.730 us over_1ms=3 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run2.csv: n=100000 min=1.325 median=1.385 p99=1.930 max=40103.746 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run3.csv: n=100000 min=1.355 median=1.390 p99=1.930 max=40117.652 us over_1ms=3 | cps=2496011000 ts_overhead=8.4 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run4.csv: n=100000 min=1.325 median=1.383 p99=1.825 max=40104.214 us over_1ms=3 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run5.csv: n=100000 min=1.316 median=1.389 p99=2.064 max=40238.438 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run6.csv: n=100000 min=1.331 median=1.383 p99=1.838 max=40114.916 us over_1ms=3 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run7.csv: n=100000 min=1.337 median=1.383 p99=1.502 max=40114.267 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run8.csv: n=100000 min=1.327 median=1.388 p99=1.890 max=40074.760 us over_1ms=2 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run9.csv: n=100000 min=1.338 median=1.386 p99=1.885 max=40095.870 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_fifo_p50_above_32_run10.csv: n=100000 min=1.360 median=1.409 p99=1.955 max=40187.881 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+server ready: policy=rr priority=50 cpu=0
+rtt_rr_p50_none_32_run1.csv: n=10000 min=1.351 median=1.378 p99=1.762 max=85.393 us over_1ms=0 | cps=2496011000 ts_overhead=6.4 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run2.csv: n=10000 min=1.361 median=1.378 p99=1.504 max=61.438 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run3.csv: n=10000 min=1.394 median=1.414 p99=1.974 max=205.516 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run4.csv: n=10000 min=1.392 median=1.414 p99=1.978 max=246.043 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run5.csv: n=10000 min=1.388 median=1.412 p99=1.506 max=64.795 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run6.csv: n=10000 min=1.384 median=1.412 p99=1.724 max=123.034 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run7.csv: n=10000 min=1.394 median=1.409 p99=1.512 max=127.163 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run8.csv: n=10000 min=1.351 median=1.411 p99=1.593 max=220.337 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run9.csv: n=10000 min=1.365 median=1.405 p99=1.931 max=270.114 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_32_run10.csv: n=10000 min=1.370 median=1.411 p99=1.832 max=73.419 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run1.csv: n=10000 min=1.367 median=1.413 p99=1.581 max=71.495 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run2.csv: n=10000 min=1.388 median=1.421 p99=2.098 max=489.836 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run3.csv: n=10000 min=1.369 median=1.413 p99=1.573 max=74.893 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run4.csv: n=10000 min=1.395 median=1.416 p99=1.858 max=873.698 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run5.csv: n=10000 min=1.357 median=1.417 p99=1.982 max=74.929 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run6.csv: n=10000 min=1.395 median=1.417 p99=1.989 max=151.978 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run7.csv: n=10000 min=1.397 median=1.414 p99=1.591 max=66.820 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run8.csv: n=10000 min=1.396 median=1.413 p99=1.638 max=117.605 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run9.csv: n=10000 min=1.392 median=1.413 p99=1.514 max=61.220 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_64_run10.csv: n=10000 min=1.393 median=1.415 p99=1.581 max=61.515 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run1.csv: n=10000 min=1.395 median=1.421 p99=1.985 max=175.137 us over_1ms=0 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run2.csv: n=10000 min=1.387 median=1.418 p99=1.859 max=129.570 us over_1ms=0 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run3.csv: n=10000 min=1.401 median=1.418 p99=1.852 max=119.874 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run4.csv: n=10000 min=1.363 median=1.425 p99=2.041 max=3088.615 us over_1ms=1 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run5.csv: n=10000 min=1.397 median=1.453 p99=1.978 max=155.709 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run6.csv: n=10000 min=1.403 median=1.422 p99=1.990 max=182.298 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run7.csv: n=10000 min=1.404 median=1.422 p99=2.008 max=446.293 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run8.csv: n=10000 min=1.359 median=1.412 p99=1.554 max=140.576 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run9.csv: n=10000 min=1.370 median=1.420 p99=1.919 max=105.857 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_128_run10.csv: n=10000 min=1.361 median=1.404 p99=1.829 max=213.429 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run1.csv: n=10000 min=1.418 median=1.469 p99=1.871 max=90.636 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run2.csv: n=10000 min=1.450 median=1.468 p99=1.857 max=69.549 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run3.csv: n=10000 min=1.415 median=1.467 p99=1.798 max=80.879 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run4.csv: n=10000 min=1.419 median=1.460 p99=1.892 max=105.230 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run5.csv: n=10000 min=1.453 median=1.472 p99=1.979 max=96.161 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run6.csv: n=10000 min=1.422 median=1.466 p99=1.562 max=107.212 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run7.csv: n=10000 min=1.453 median=1.470 p99=1.597 max=155.861 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run8.csv: n=10000 min=1.454 median=1.470 p99=2.043 max=115.694 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run9.csv: n=10000 min=1.449 median=1.472 p99=1.813 max=183.363 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_512_run10.csv: n=10000 min=1.417 median=1.447 p99=1.863 max=137.451 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run1.csv: n=10000 min=1.413 median=1.447 p99=1.899 max=162.044 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run2.csv: n=10000 min=1.421 median=1.446 p99=1.738 max=67.966 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run3.csv: n=10000 min=1.426 median=1.470 p99=1.944 max=72.671 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run4.csv: n=10000 min=1.427 median=1.472 p99=1.574 max=67.568 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run5.csv: n=10000 min=1.424 median=1.473 p99=1.921 max=831.024 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run6.csv: n=10000 min=1.427 median=1.470 p99=1.563 max=60.320 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run7.csv: n=10000 min=1.454 median=1.472 p99=1.568 max=102.788 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run8.csv: n=10000 min=1.449 median=1.472 p99=1.624 max=81.801 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run9.csv: n=10000 min=1.428 median=1.474 p99=2.009 max=167.694 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_1024_run10.csv: n=10000 min=1.424 median=1.473 p99=1.600 max=120.963 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run1.csv: n=10000 min=2.101 median=2.174 p99=2.814 max=127.564 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run2.csv: n=10000 min=2.141 median=2.189 p99=3.195 max=192.832 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run3.csv: n=10000 min=2.155 median=2.188 p99=2.367 max=329.799 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run4.csv: n=10000 min=2.110 median=2.188 p99=2.371 max=144.877 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run5.csv: n=10000 min=2.094 median=2.190 p99=2.399 max=300.078 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run6.csv: n=10000 min=2.145 median=2.187 p99=2.350 max=61.643 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run7.csv: n=10000 min=2.109 median=2.187 p99=2.354 max=68.224 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run8.csv: n=10000 min=2.107 median=2.175 p99=2.973 max=176.927 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run9.csv: n=10000 min=2.108 median=2.183 p99=2.950 max=192.338 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_4096_run10.csv: n=10000 min=2.110 median=2.187 p99=2.869 max=82.731 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run1.csv: n=10000 min=2.238 median=2.290 p99=2.985 max=83.937 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run2.csv: n=10000 min=2.196 median=2.280 p99=2.983 max=82.798 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run3.csv: n=10000 min=2.196 median=2.287 p99=2.994 max=185.421 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run4.csv: n=10000 min=2.229 median=2.280 p99=3.220 max=129.445 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run5.csv: n=10000 min=2.191 median=2.290 p99=3.131 max=431.255 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run6.csv: n=10000 min=2.189 median=2.279 p99=3.399 max=170.424 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run7.csv: n=10000 min=2.232 median=2.285 p99=2.484 max=119.091 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run8.csv: n=10000 min=2.232 median=2.276 p99=2.961 max=85.852 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run9.csv: n=10000 min=2.204 median=2.286 p99=3.162 max=122.540 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_none_8192_run10.csv: n=10000 min=2.195 median=2.276 p99=2.469 max=95.812 us over_1ms=0 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms
+rtt_rr_p50_below_32_run1.csv: n=100000 min=1.392 median=1.413 p99=1.929 max=894.920 us over_1ms=0 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run2.csv: n=100000 min=1.361 median=1.411 p99=1.948 max=335.107 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run3.csv: n=100000 min=1.364 median=1.410 p99=1.579 max=115.245 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run4.csv: n=100000 min=1.361 median=1.410 p99=1.935 max=402.574 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run5.csv: n=100000 min=1.362 median=1.411 p99=1.929 max=171.694 us over_1ms=0 | cps=2496011000 ts_overhead=8.4 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run6.csv: n=100000 min=1.393 median=1.412 p99=1.571 max=239.429 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run7.csv: n=100000 min=1.366 median=1.411 p99=1.708 max=188.814 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run8.csv: n=100000 min=1.364 median=1.411 p99=1.948 max=170.936 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run9.csv: n=100000 min=1.363 median=1.411 p99=1.924 max=159.283 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_below_32_run10.csv: n=100000 min=1.392 median=1.415 p99=1.960 max=208.100 us over_1ms=0 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=45 burst=40000 us idle=40000 us bursts=0
+rtt_rr_p50_equal_32_run1.csv: n=100000 min=1.361 median=1.412 p99=1.933 max=10075.180 us over_1ms=35 | cps=2496011000 ts_overhead=7.2 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run2.csv: n=100000 min=1.356 median=1.414 p99=1.968 max=5170.208 us over_1ms=37 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run3.csv: n=100000 min=1.364 median=1.412 p99=1.955 max=5157.334 us over_1ms=39 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run4.csv: n=100000 min=1.363 median=1.415 p99=1.953 max=6675.975 us over_1ms=38 | cps=2496011000 ts_overhead=8.0 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run5.csv: n=100000 min=1.365 median=1.412 p99=1.925 max=6127.462 us over_1ms=34 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run6.csv: n=100000 min=1.365 median=1.412 p99=1.956 max=5193.757 us over_1ms=37 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run7.csv: n=100000 min=1.362 median=1.410 p99=1.614 max=5085.550 us over_1ms=35 | cps=2496011000 ts_overhead=6.8 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run8.csv: n=100000 min=1.360 median=1.411 p99=1.948 max=5116.651 us over_1ms=38 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run9.csv: n=100000 min=1.364 median=1.413 p99=1.948 max=6522.746 us over_1ms=35 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_equal_32_run10.csv: n=100000 min=1.363 median=1.411 p99=1.938 max=5120.526 us over_1ms=33 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=50 burst=40000 us idle=40000 us bursts=4
+rtt_rr_p50_above_32_run1.csv: n=100000 min=1.355 median=1.411 p99=1.944 max=40060.599 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run2.csv: n=100000 min=1.365 median=1.413 p99=1.966 max=40075.674 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run3.csv: n=100000 min=1.357 median=1.409 p99=1.932 max=40117.232 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run4.csv: n=100000 min=1.351 median=1.411 p99=1.932 max=40066.398 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run5.csv: n=100000 min=1.350 median=1.414 p99=2.081 max=40099.486 us over_1ms=4 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run6.csv: n=100000 min=1.345 median=1.410 p99=1.927 max=40069.365 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run7.csv: n=100000 min=1.358 median=1.411 p99=1.970 max=40072.270 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run8.csv: n=100000 min=1.362 median=1.413 p99=1.938 max=40061.250 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run9.csv: n=100000 min=1.356 median=1.410 p99=1.931 max=40061.500 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+rtt_rr_p50_above_32_run10.csv: n=100000 min=1.354 median=1.409 p99=1.943 max=40070.511 us over_1ms=3 | cps=2496011000 ts_overhead=7.6 ns rr_slice=3.750 ms | load prio=55 burst=40000 us idle=40000 us bursts=3
+done
